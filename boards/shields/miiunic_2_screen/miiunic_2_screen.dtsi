@@ -32,7 +32,7 @@
     };
     encoder_right0: encoder_right0 {
         compatible = "alps,ec11";
-        steps = <80>;
+        steps = <100>;
         status = "disabled";
     };
 
